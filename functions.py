@@ -5,9 +5,9 @@ Spyder Editor
 This is a temporary script file.
 """
 def square(a):
-    print(a*a)
+    return (a*a)
     
 def sum(a,b):
-    print(a+b)
+    return (a+b)
     
     
